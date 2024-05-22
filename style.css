@@ -256,6 +256,12 @@ header .content p {
         width: 400px;
     }
 
+    .contacts,
+    .projects {
+        position: static;
+        transform: none;
+    }
+
 }
 
 @media (min-height: 900px) {
